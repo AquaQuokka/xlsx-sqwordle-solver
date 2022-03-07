@@ -2,8 +2,8 @@
 
 
 
-# Header 1
-Sqwordle is like Wordle for Pokefans. <br> <br>
+# Sqwordle
+Sqwordle is like Wordle for Pokéfans. <br> <br>
 ... but with 905 possibilities, it can get hard ... <br> <br>
 Does it have to be, though? <br> <br>
 <br> <br> <br>
